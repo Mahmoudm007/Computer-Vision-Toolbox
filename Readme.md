@@ -77,7 +77,7 @@ Each application in VisualMinds is modular and can be accessed individually. Clo
       <a href="https://github.com/mohandemadx" target="_black">
       <img src="https://avatars.githubusercontent.com/u/102548631?v=4" width="190px;" alt="Amgad Atef"/>
       <br />
-      <sub><b>Mahmoud Magdy</b></sub></a>
+      <sub><b>Mohanad Emad</b></sub></a>
     </td>
   </tr>
 </table>
